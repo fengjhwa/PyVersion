@@ -1,1 +1,1 @@
-__version__ = "{tag}"
+__version__ = '{tag}'
